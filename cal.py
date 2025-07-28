@@ -10,11 +10,11 @@ def divide(x, y):
     return x / y
 def calculator():
     while True:
-        print("\nSimple Calculator")
-        print("1. Add")
-        print("2. Subtract")
-        print("3. Multiply")
-        print("4. Divide")
+        print("Simple Calculator")
+        print("1. Addition")
+        print("2. Subtraction")
+        print("3. Multiplication")
+        print("4. Division")
         print("5. Exit")
 
         choice = input("Enter choice (1/2/3/4/5): ")
